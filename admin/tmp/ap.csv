@@ -1,0 +1,309 @@
+Procurement Vendor ID (Mandatory for 1° Tier Vendor)|Supplier Name|Country|VAT Number|PO Number (if  first tier vendor) or ICA-DOU (if IBM entity or IBM Subsidiary)|Is the PO GDPR Relevant?|Is there further sub-contracting to second or third tier vendors? If so  please provide the full names and full address of 2nd or 3rd tier vendors|Briefly describe the type of services/data processing activity performed by the Vendor|In what category is the Vendor s Service Description ? (using the categories in GSAR (Global Solution Architecture Repository))|PO Status|Start Date|End Date|Business Unit that provide the services through this vendor(free text )|Requester/Approver Name|Please identify the Customer(s) or Account(s) under the PO|NOTE|Account Name
+I0534|INFO.SERVICES|INDIA|GST No : 27AAACI4403L1ZO|IG206580|Yes|N/A|Providing Resources for MWS & Service Desk support PAN INDIA on-site Locations.|MCCS-Service Desk; Workplace Support Services|Open|4/7/2017|4/8/2018|GTS|Sachin S Rane|All Customers using Services Desk and Workplace Support Services||Jet Airways
+F0078|FUTURE FOCUS|INDIA|GST No : 29AAACI4403L1ZK|IG214108 AMENDMENT 001|Yes|N/A|Providing Resources for MobilitySupport for On-site Location.|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|1/1/2018|3/31/2018|GTS|Sachin S Rane|All Customers using Mobility Services||Jet Airways
+I0242|IMSI INDIA PVT LTD|INDIA|GST No : 05AABCI1797A1ZX|IG215371 AMENDMENT 001|Yes|N/A|Providing Resources for MWS & Service Desk support PAN INDIA on-site Locations.|MCCS-Service Desk; Workplace Support Services|Open|2/13/2018|2/12/2019|GTS|Sachin S Rane|All Customers using Services Desk and Workplace Support Services||Jet Airways
+F0078|FUTURE FOCUS INFOTECH PVT LTD|INDIA|GST No : 29AAACI4403L1ZK|IG211499 AMENDMENT 001|Yes|N/A|Providing Resources for MobilitySupport for On-site Location.|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|10/9/2017|10/8/2018|GTS|Sachin S Rane|All Customers using Mobility Services||Jet Airways
+I0242|IMSI INDIA PVT LTD|INDIA|GST No : 05AABCI1797A1ZX|IG207563 AMENDMENT 001|Yes|N/A|Providing Resources for Data Centre Support|Distributed Middleware  Databases  Servers and Storage Management|Open|6/3/2017|6/2/2018|GTS|Rupam K Hazarika|All Customers using Distributed Services||Jet Airways
+I0242|IMSI INDIA PVT LTD|INDIA|GST No : 05AABCI1797A1ZX|IG215534 AMENDMENT 001|Yes|N/A|Providing Resource for Data Centre Support|Distributed Middleware  Databases  Servers and Storage Management|Open|3/1/2018|2/28/2019|GTS|Rupam K Hazarika|All Customers using Distributed Services||Jet Airways
+F0078|FUTURE FOCUS INFOTECH PVT LTD|INDIA|GST No :29AAACI4403L1ZK|IG215533 AMENDMENT 001|Yes|N/A|Providing Resources for Network Services Support|Managed Network Services|Open|2/15/2018|2/14/2019|GTS|Prakash H Chauhan|All Customers using Managed Network Services||Jet Airways
+1000428076|ITMSG|KOREA|2068673522|KIA39776|Yes|N/A|EUC (End User Computing) Bigfix Deployment - Labor |MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.03.31|GTS||All Customers||Hanon
+1000428076|ITMSG|KOREA|2068673522|KIA39777|Yes|N/A|EUC (End User Computing) Bigfix Deployment - Expense |MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.10.31|GTS||All Customers||Hanon
+1000388434|STEFANINI|UNITED STATES|38-2774613|KIA40136|Yes|N/A|helpdesk agent service purchase from Stefanini|MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.03.31|GTS||All Customers||Hanon
+1000388434|STEFANINI|UNITED STATES|38-2774613|KIA40137|Yes|N/A|Toll free service from Stefanini|MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.10.31|GTS||All Customers||Hanon
+1000388434|STEFANINI|UNITED STATES|38-2774613|KIA40134|Yes|N/A|Major Incident Management SVC (24/7 days during5) |MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.03.31|GTS||All Customers||Hanon
+1000388434|STEFANINI|UNITED STATES|38-2774613|KIA40140|Yes|N/A|CA team rate for Transition|MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.10.31|GTS||All Customers||Hanon
+1000388434|STEFANINI|UNITED STATES|38-2774613|KIA40152|Yes|N/A|HANON STEFANINI Tools License & Maintenance|MCCS-Service Desk; Workplace Support Services|Open|2018.01.01|2018.03.31|GTS||All Customers||Hanon
+U00059|UNIONEI AN|SOUTH KOREA|1178147772|KIA40159|Yes|N/A|Network Architect|Solution Design|Open|2018.01.01|2018.10.31|GTS||All Customers||Hanon
+M00097|MOASYS|SOUTH KOREA|2118647496|KIA40133|Yes|N/A|Server architect|Security Services; Managed & Cloud Delivery|Open|2018.01.01|2018.03.31|GTS||All Customers||Hanon
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/V17-02/ITOS|Yes|N/A|140 mandays/month provided for Indosat IT operation support|Distributed Middleware  Databases  Servers and Storage Management|Open|15-May-17|14-May-18|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/VI17-01/ITOS|Yes|N/A|20 mandays/month provided for Indosat IT operation support|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Jun-17|31-May-18|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/X17-06/ITOS|Yes|N/A|140 mandays/month provided for Indosat IT operation support|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|10-Oct-17|9-Jul-18|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/XII17-01/ITOS|Yes|N/A|300 mandays/month provided for Indosat IT operation support|Distributed Middleware  Databases  Servers and Storage Management|Open|9-Dec-17|8-Oct-18|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/II18-08/ITOS|Yes|N/A|100 mandays/month provided for Indosat IT operation support|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Mar-18|28-Feb-19|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/III18-01/ITOS|Yes|N/A|140 mandays/month provided for Indosat IT operation support|Risk and Compliance Management|Open|2-Apr-18|1-Apr-19|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/III18-11/ITOS|Yes|N/A|60 mandays/month provided for Indosat IT operation support|Distributed Middleware  Databases  Servers and Storage Management|Open|2-Apr-18|1-Apr-19|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/VII17-06/ITOS|Yes|N/A|100 mandays/month provided for Indosat IT operation support|Distributed Middleware  Databases  Servers and Storage Management|Open|18-Mar-18|17-Mar-19|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+JTI|PT. JASA TEKNOLOGI INFORMASI IBM|The Plaza Office Tower 16th Floor  Jl. MH Thamrin Kav 28-30  Jakarta 10350|021941513058|JIDC 3663/II18-16/ITOS|Yes|N/A|600 mandays/month provided for Indosat IT operation support|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|1-Mar-18|28-Feb-19|GTS|1) lisya umra/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106853|Yes|N/A|L2 Tech Support for iGate|Distributed Middleware  Databases  Servers and Storage Management|Open|21-Mar-18|20-Jun-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106164|Yes|N/A|Lead & Tech Support for Simponi|Distributed Middleware  Databases  Servers and Storage Management|Open|18-Apr-17|17-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106776|Yes|N/A|Tech Support for Datawarehouse|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Mar-18|31-Mar-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106638|Yes|N/A|L2 Tech Support for NGSSP|Distributed Middleware  Databases  Servers and Storage Management|Open|8-Jan-18|7-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106639|Yes|N/A|Lead & Tech Support for BI and Hadoop Ops|Distributed Middleware  Databases  Servers and Storage Management|Open|12-Jan-18|11-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106251|Yes|N/A|Tech Support for CRM Icare Siebel|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Jul-17|30-Jun-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106735|Yes|N/A|Lead & Tech Support for Tertio Provisioning|Distributed Middleware  Databases  Servers and Storage Management|Open|21-Feb-18|20-Jul-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106736|Yes|N/A|Tech Support for Datawarehouse|Distributed Middleware  Databases  Servers and Storage Management|Open|24-Feb-18|23-Aug-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106543|Yes|N/A|Lead & Tech Support for Tertio Provisioning|Distributed Middleware  Databases  Servers and Storage Management|Open|21-Nov-17|20-Nov-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000380594|HTC Software Singapore Pte. Ltd.|INDONESIA|GST 19-9303853-R|IV106575|Yes|N/A|Lead & Tech Support for CRM Catalist Siebel|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Jan-18|31-Dec-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000451412|PT Abishar Technologies Indonesia|INDONESIA|764553855063000|IV106083|Yes|N/A|L2 Tech Support for NGSSP|Distributed Middleware  Databases  Servers and Storage Management|Open|21-Mar-17|20-Mar-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000451412|PT Abishar Technologies Indonesia|INDONESIA|764553855063000|IV106702|Yes|N/A|Tech Support for CRM Catalist Siebel|Distributed Middleware  Databases  Servers and Storage Management|Open|17-Feb-18|16-May-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000451412|PT Abishar Technologies Indonesia|INDONESIA|764553855063000|IV106599|Yes|N/A|Lead & Tech Support for CRM Mobile|Distributed Middleware  Databases  Servers and Storage Management|Open|9-Jan-18|8-Jan-19|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000451412|PT Abishar Technologies Indonesia|INDONESIA|764553855063000|IV106600|Yes|N/A|Lead & Tech Support for CRM Catalist Siebel|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Feb-18|31-Jan-19|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000440342|PT APLIKANUSA LINTASARTA|INDONESIA|013299292092000|IV106717|Yes|N/A|Lintasarta Managed Services|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Feb-18|31-Jul-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000441636|PT Lentice Solutions|INDONESIA|210951190063000|IV106816|Yes|N/A|IDM Technical Support & SOC Monitoring Support|Risk and Compliance Management|Open|1-Feb-18|31-Dec-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Patria Indrajaya/Indonesia/IBM|Indosat||Indosat
+B98022|PT Mitra Integrasi Informatika|INDONESIA|017645896062000|IV106713|Yes|N/A|Desktop Maintenance  Symantec Support  and Helpdesk Services|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|1-Feb-18|31-Jan-19|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Lioe Eric Marcelius/Indonesia/IBM|Indosat||Indosat
+1000453512|PT MITRA PROFESI INDONESIA|GEDUNG PERMATA KUNINGAN LT 17  JL. KUNINGAN MULIA KAV 9C  JAKARTA 12980|767550593018000|IV106560|Yes|PT VLink Consulting Indonesia Office 8 Level 18-A  Jl. Jend Sudirman Kav 52-53 SCBD  Jakarta Selatan 12190 (Indonesia)|Lead & Tech Support for Simponi|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Dec-17|28-Feb-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000453512|PT MITRA PROFESI INDONESIA|GEDUNG PERMATA KUNINGAN LT 17  JL. KUNINGAN MULIA KAV 9C  JAKARTA 12980|767550593018000|IV106843|Yes|PT VLink Consulting Indonesia Office 8 Level 18-A  Jl. Jend Sudirman Kav 52-53 SCBD  Jakarta Selatan 12190 (Indonesia)|Tech Support for CRM Icare Siebel|Distributed Middleware  Databases  Servers and Storage Management|Open|14-Mar-18|13-Jun-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000453512|PT MITRA PROFESI INDONESIA|GEDUNG PERMATA KUNINGAN LT 17  JL. KUNINGAN MULIA KAV 9C  JAKARTA 12980|767550593018000|IV106580|Yes|PT VLink Consulting Indonesia Office 8 Level 18-A  Jl. Jend Sudirman Kav 52-53 SCBD  Jakarta Selatan 12190 (Indonesia)|Lead & Tech Support for Billing Operation|Distributed Middleware  Databases  Servers and Storage Management|Open|5-Jan-18|26-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000453512|PT MITRA PROFESI INDONESIA|GEDUNG PERMATA KUNINGAN LT 17  JL. KUNINGAN MULIA KAV 9C  JAKARTA 12980|767550593018000|IV106648|Yes|PT VLink Consulting Indonesia Office 8 Level 18-A  Jl. Jend Sudirman Kav 52-53 SCBD  Jakarta Selatan 12190 (Indonesia)|Svc Management - Incident  Capacity  Config|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|2-Jan-18|1-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000453512|PT MITRA PROFESI INDONESIA|GEDUNG PERMATA KUNINGAN LT 17  JL. KUNINGAN MULIA KAV 9C  JAKARTA 12980|767550593018000|IV106697.|Yes|PT VLink Consulting Indonesia Office 8 Level 18-A  Jl. Jend Sudirman Kav 52-53 SCBD  Jakarta Selatan 12190 (Indonesia)|ERP & SAP Lead|Distributed Middleware  Databases  Servers and Storage Management|Open|18-Jan-18|17-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000453512|PT MITRA PROFESI INDONESIA|GEDUNG PERMATA KUNINGAN LT 17  JL. KUNINGAN MULIA KAV 9C  JAKARTA 12980|767550593018000|IV106810|Yes|PT Bahtera Pusat Lintasbuana Jl. Raya Pasar Minggu No. 5B  Rawa Bambu  Jakarta Selatan (Indonesia)|BPL IT Operation Support|Distributed Middleware  Databases  Servers and Storage Management|Open|1-Mar-18|30-Apr-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000401376|PT Nityo Infotech Private Limited IT Services|INDONESIA|028750750022000|IV106767|Yes|N/A|Lead & Tech Support for CRM Mobile|Distributed Middleware  Databases  Servers and Storage Management|Open|24-Feb-18|23-Mar-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000401376|PT Nityo Infotech Private Limited IT Services|INDONESIA|028750750022000|IV106822|Yes|N/A|Svc Management - Incident  Capacity  Config|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|12-Mar-18|11-Jun-18|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+1000401376|PT Nityo Infotech Private Limited IT Services|INDONESIA|028750750022000|IV106701|Yes|N/A|Lead & Tech Support for Simponi|Distributed Middleware  Databases  Servers and Storage Management|Open|14-Mar-18|13-Mar-19|GTS|1) Annisa Zulaikha1/Indonesia/IBM 2) Issac Thambi/India/IBM|Indosat||Indosat
+34312190|AUSTRALIAN|#N/A|||TBC|N/A||||||||Telstra||Telstra
+1000387337|BMC SOFTWA|AUSTRALIA||||N/A||||||||Telstra||Telstra
+00387102555|BYTECRAFT|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+0029232066A|CA PACIFIC|AUSTRALIA||||N/A||||||||Telstra||Telstra
+1000428531|CDS|AUSTRALIA||||N/A||||||||Telstra||Telstra
+0024151800|CINCOM|AUSTRALIA||||N/A||||||||Telstra||Telstra
+1000443942|COMPUWARE|AUSTRALIA||||N/A||||||||Telstra||Telstra
+0035263657B|CONBRIO|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+1000435134|DDL|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+1000422587|DIGITAL|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+1000421565|ETHAN GROU|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+0028161177C|EXECUTIVE|AUSTRALIA|||Yes|N/A||||||||Telstra||Telstra
+1000395815|EXPETUNE P|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+00396539585A|HCL TECHNO|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+0038952895|HEWLETT-PACKARD|AUSTRALIA||||N/A||||||||Telstra||Telstra
+00295805968  1000316073|INFORMATIO|#N/A|||TBC|N/A||||||||Telstra||Telstra
+1000413143|JUNIPER NE|AUSTRALIA||||N/A||||||||Telstra||Telstra
+00398788000C|OFFICEMA|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+0037649133|ONLINE|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+0029595080A|ORACLECORP|AUSTRALIA||||N/A||||||||Telstra||Telstra
+00738724811|RED HAT|AUSTRALIA||||N/A||||||||Telstra||Telstra
+00398827522B|SERENA|AUSTRALIA||||N/A||||||||Telstra||Telstra
+0035697253|SOUTHERN|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+002TELSTRA|TELSTRA CO|AUSTRALIA|||TBC|N/A||||||||Telstra||Telstra
+00299013655A|WESTCON GR|AUSTRALIA||||N/A||||||||Telstra||Telstra
+|ISI PTY LTD|AUSTRALIA||P693VB|Yes|N/A|Contracting Service - 4x FTE s only with approved Security Clearance|Mainframe Middleware  Databases  Servers (and Other)  Storage Management|Open|||||SIA||DIBP
+002TELSTRA|TELSTRA CORPORATION|AUSTRALIA|||Yes|N/A|contract to provide Network services - Project Indigo|Managed Network Services||||||SIA||DIBP
+0299648209|TERADATA|AUSTRALIA||P666D5|Yes|N/A|Provide Hardware support and therefore have access to the equipment|Select….|Open|7/1/2017|6/30/2018|||SIA||DIBP
+|IGNITE|#N/A||P64V74|Yes|N/A|Physical Tape management at Data Centres|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|||||SIA||DIBP
+262804887|A B M Electronic Engineering Australia|AUSTRALIA||Acknowledged Receipt||N/A|n/a for GDPR (Westpac)|||||||SIA||Westpac
+64093585030A|Arrow ECS ANZ Pty Ltd|NEW ZEALAND||Mailed||N/A|n/a for GDPR (Westpac)|||||||SIA||Westpac
+1000427646|Chef Software Inc|AUSTRALIA||Acknowledged Receipt||N/A|IT Infrastructure Automation|See column H||||||SIA||Westpac
+1000007516|Colesoft Marketing Inc|AUSTRALIA||Mailed||N/A|Mainframe SW Debugger|See column H||||||SIA||Westpac
+295805968|Information Management Integration|#N/A||Acknowledged Receipt||N/A|Infrastructure Services|See column H||||||SIA||Westpac
+1000352810|Lakeside Software Pty Ltd|AUSTRALIA||Acknowledged Receipt||N/A|Workspace Analytics|See column H||||||SIA||Westpac
+1000401079|Microelectronic Sales Pty Ltd|AUSTRALIA||Mailed||N/A|n/a for GDPR (Westpac)|||||||SIA||Westpac
+1000409302|Oracle Corporation Australia Pty Ltd|AUSTRALIA||Under Analysis||N/A|n/a for GDPR (Westpac)|||||||SIA||Westpac
+5641|SHI International Corp|#N/A||Acknowledged Receipt||N/A|Technology Products and Services|See column H||||||SIA||Westpac
+1000190464|Tech Data Advanced Solutions ANZ Pty Ltd|#N/A||Acknowledged Receipt||N/A|Technology Products and Services|See column H||||||SIA||Westpac
+1000438047|Telstra Corporation Ltd|#N/A||Under Analysis||N/A|Communications and Network|See column H||||||SIA||Westpac
+01300660901A|Toshiba Australia Pty Ltd|AUSTRALIA||Not found||N/A|n/a for GDPR (Westpac)|||||||SIA||Westpac
+|Toshiba Client Solutions ANZ Pty Ltd|#N/A||Not found||N/A|n/a for GDPR (Westpac)|||||||SIA||Westpac
+386106319|TRIDANT PTY LTD|#N/A||Acknowledged Receipt||N/A|Data Analytics|See column H||||||SIA||Westpac
+00894742311A|Veritas Australia Pty Ltd|AUSTRALIA||Mailed||N/A|Storage Management|See column H||||||SIA||Westpac
+1000439416|Veritas Storage Singapore Pte Ltd|AUSTRALIA||Not found||N/A|Storage Management|See column H||||||SIA||Westpac
+1000442936|Westcon Group Pty Ltd|CHINA||Not Active||N/A|Technology Products and Services|See column H||||||SIA||Westpac
+AUS0396428011|Whispir Australia Pty Ltd|NEW ZEALAND||Acknowledged Receipt||N/A|Unified Communication|See column H||||||SIA||Westpac
+GBR447976850226|World Programming Ltd|AUSTRALIA||Mailed||N/A|Data Analytics|See column H||||||SIA||Westpac
+|HP Singapore (Global PC Support)|SINGAPORE|||Yes|N/A|Singapore & global PC support|||||||SIA||SIA
+|Symantec Singapore (Anti Virus SW Support)|SINGAPORE|||Yes|N/A|Anti Virus SW Support|||||||SIA||SIA
+|IBM Singapore (AIX HW  SW Support)|SINGAPORE|||Yes|N/A|AIX HW  SW Support|||||||SIA||SIA
+|RedHat Singapore (Redhat OS Support)|SINGAPORE|||Yes|N/A|Redhat SW Support|||||||SIA||SIA
+|Oracle Singapore (Solaris HW  SW Support)|SINGAPORE|||Yes|N/A|Solaris HW  SW Support|||||||SIA||SIA
+|Lenovo Singapore (Wintel HW Support)|SINGAPORE|||Yes|N/A|Wintel HW Support|||||||SIA||SIA
+|Microsoft Singapore (Wintel SW Support)|SINGAPORE|||Yes|N/A|Wintel SW Support|||||||SIA||SIA
+|VMWare Singapore (VMWare SW Support)|SINGAPORE|||Yes|N/A|VMWare SW Support|||||||SIA||SIA
+|IBM Singapore (SAN Storage HW SW Support)|SINGAPORE|||Yes|N/A|SAN Storage HW SW Support|||||||SIA||SIA
+|Veritas Singapore (Backup SW Support)|SINGAPORE|||Yes|N/A|Backup SW Support|||||||SIA||SIA
+|Oracle Singapore (Oracle SW Support)|SINGAPORE|||Yes|N/A|Oracle SW Support|||||||SIA||SIA
+|IBM Singapore (DB2 SW Support)|SINGAPORE|||Yes|N/A|DB2 SW Support|||||||SIA||SIA
+|Oracle Singapore (MySQL SW Support)|SINGAPORE|||Yes|N/A|MySQL SW Support|||||||SIA||SIA
+|Axway Singapore (TumbleWeed SW Support)|SINGAPORE|||Yes|N/A|TumbleWeed SW Support|||||||SIA||SIA
+|IBM Singapore (WebSphere SW Support)|SINGAPORE|||Yes|N/A|WebSphere SW Support|||||||SIA||SIA
+|IBM Singapore (ITIM SW Support)|SINGAPORE|||Yes|N/A|ITIM SW Support|||||||SIA||SIA
+|IBM Singapore (Maximo  ICD SW Support)|SINGAPORE|||Yes|N/A|Maximo  ICD SW Support|||||||SIA||SIA
+|IBM Singapore (Backup HW support-Tape Library)|SINGAPORE||||N/A||||||||SIA||SIA
+|BO (BOXI support)|SINGAPORE||||N/A||||||||SIA||SIA
+|IBM Singapore (Datastage)|SINGAPORE||||N/A||||||||SIA||SIA
+|Microsoft Singapore (MSSQL DB Support)|SINGAPORE||||N/A||||||||SIA||SIA
+|Oracle Singapore (Weblogic SW Support)|SINGAPORE||||N/A||||||||SIA||SIA
+|RedHat Singapore (Jboss Support)|SINGAPORE||||N/A||||||||SIA||SIA
+|Microsoft Singapore (IIS Support)|SINGAPORE||||N/A||||||||SIA||SIA
+|IBM Singapore (MQ  TDS  WAS SW support)|SINGAPORE||||N/A||||||||SIA||SIA
+|CA (Siteminder SW support)|#N/A||||N/A||||||||SIA||SIA
+|TOPCOM (UMS H/W & S/W sopport)|#N/A||||N/A||||||||SIA||SIA
+|IBM Singapore (X Series Support)|SINGAPORE||||N/A||||||||SIA||SIA
+|Citrix (Citrix SW support)|#N/A||||N/A||||||||SIA||SIA
+1000413554|Cryptograph Technologies Pvt Ltd|INDIA|N.A|IG207807 AMENDMENT 001|Yes|N/A|Service support for Help Desk  24X7 supp|Client Management; Account and Service Delivery Management|Open|17-Jun-17|16-Jun-18|GTS Solutions  Del & Transformation|Manoj Yadav|Welspun India Ltd.||Welspun
+N0005|NET CONNECT PVT LTD|INDIA|N.A|IG208978 AMENDMENT 002|Yes|N/A|Network management for Welspun Acount|Client Management; Account and Service Delivery Management|Open|27-Jul-17|26-Jul-18|GTS Solutions  Del & Transformation|Manoj Yadav|Welspun India Ltd.||Welspun
+1000413554|CRYPTOGRAPH TECHNOLOGIES PVT LTD|INDIA|N.A|IG209199 AMENDMENT 001|Yes|N/A|Datacentre Operations at Anjar Gujarat location|Mainframe Middleware  Databases  Servers (and Other)  Storage Management|Open|1-Aug-17|31-Jul-18|GTS Solutions  Del & Transformation|Manoj Yadav|Welspun India Ltd.||Welspun
+|WINS IT|#N/A||KIA39373|Yes|N/A|Storage admin|Distributed Middleware  Databases  Servers and Storage Management|Open|8/1/2017|7/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|WINS IT|#N/A||KIA39373|Yes|N/A|Storage admin|Distributed Middleware  Databases  Servers and Storage Management|Open|8/1/2017|7/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|WINS IT|#N/A||KIA39373|Yes|N/A|Storage admin|Distributed Middleware  Databases  Servers and Storage Management|Open|8/1/2017|7/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|WINS IT|#N/A||KIA39387|Yes|N/A|Unix admin|Distributed Middleware  Databases  Servers and Storage Management|Open|8/6/2017|8/5/2018|GTS||All Customers using Distributed Services||Korean Air
+|WINS IT|#N/A||KIA39387|Yes|N/A|Unix admin|Distributed Middleware  Databases  Servers and Storage Management|Open|8/6/2017|8/5/2018|GTS||All Customers using Distributed Services||Korean Air
+|WINS IT|#N/A||KIA39387|Yes|N/A|Unix admin|Distributed Middleware  Databases  Servers and Storage Management|Open|8/6/2017|8/5/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|SQNT LTD|#N/A||KIA38932|Yes|N/A|z/VM & Linux admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|GTS||All Customers using Distributed Services||Korean Air
+|KWON CO LT|#N/A||KIA39263|Yes|N/A|Operation|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|7/1/2017|6/30/2018|GTS||All Customers||Korean Air
+|KWON CO LT|#N/A||KIA39263|Yes|N/A|Operation|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|7/1/2017|6/30/2018|GTS||All Customers||Korean Air
+|KWON CO LT|#N/A||KIA39263|Yes|N/A|Operation|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|7/1/2017|6/30/2018|GTS||All Customers||Korean Air
+|KWON CO LT|#N/A||KIA39263|Yes|N/A|Operation|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|7/1/2017|6/30/2018|GTS||All Customers||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|ITMSG|#N/A||KIA38895|Yes|N/A|Tivoli admin|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|4/7/2017|4/6/2018|GTS||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||Korean Air
+|INOBI CONS|#N/A||KIA39229|Yes|N/A|PDA Admin|Distributed Middleware  Databases  Servers and Storage Management|Open|6/27/2017|6/26/2018|GTS||All Customers using Distributed Services||Korean Air
+|INOBI CONS|#N/A||KIA39229|Yes|N/A|PDA Admin|Distributed Middleware  Databases  Servers and Storage Management|Open|6/27/2017|6/26/2018|GTS||All Customers using Distributed Services||Korean Air
+|INOBI CONS|#N/A||KIA39229|Yes|N/A|PDA Admin|Distributed Middleware  Databases  Servers and Storage Management|Open|6/27/2017|6/26/2018|GTS||All Customers using Distributed Services||Korean Air
+|INOBI CONS|#N/A||KIA39229|Yes|N/A|PDA Admin|Distributed Middleware  Databases  Servers and Storage Management|Open|6/27/2017|6/26/2018|GTS||All Customers using Distributed Services||Korean Air
+Dimension Data|Dimension Data Korea Inc|KOREA||KIA32284|Yes|2nd tier vendors 1 Vendor   :  NEXT STEP  address : 15-1  Gukhoe-daero 70-gil  Yeongdeungpo-gu  Seoul  Republic of Korea  2nd tier vendors 2 Vendor   :  INNOINC address : #306  165  Gasan Digital 2 ro  Geumcheon-gu  Seoul  Korea (08504)|Operating an IPCC server in Prague. Operating a recording server in Prague.|Managed Network Services|Open|10/1/2014|3/31/2019|GTS|Sung Hak Hyun/Young Taik Park|HANJIN - S/R(RS/6000)||Korean Air
+Dimension Data|Dimension Data Korea Inc|KOREA||KIA36180|Yes|2nd tier vendors 1 Vendor   :  NEXT STEP  address : 15-1  Gukhoe-daero 70-gil  Yeongdeungpo-gu  Seoul  Republic of Korea  2nd tier vendors 2 Vendor   :  INNOINC address : #306  165  Gasan Digital 2 ro  Geumcheon-gu  Seoul  Korea (08504)|Operating an IPCC server in Prague. Operating a recording server in Prague.|Managed Network Services|Open|12/1/2015|9/30/2018|GTS|Sung Hak Hyun/Seong Woong Jung|HANJIN - S/R(RS/6000)||Korean Air
+Dimension Data|Dimension Data Korea Inc|KOREA||KIA37576|Yes|2nd tier vendors 1 Vendor   :  NEXT STEP  address : 15-1  Gukhoe-daero 70-gil  Yeongdeungpo-gu  Seoul  Republic of Korea  2nd tier vendors 2 Vendor   :  INNOINC address : #306  165  Gasan Digital 2 ro  Geumcheon-gu  Seoul  Korea (08504) 2nd tier vendors 1 Vendor   :  NEXT STEP  address : 15-1  Gukhoe-daero 70-gil  Yeongdeungpo-gu  Seoul  Republic of Korea  2nd tier vendors 2 Vendor   :  INNOINC address : #306  165  Gasan Digital 2 ro  Geumcheon-gu  Seoul  Korea (08504)|Operating an IPCC server in Prague. Operating a recording server in Prague.|Managed Network Services|Open|7/26/2016|3/31/2019|GTS|Sung Hak Hyun/SeungWon Shin|HANJIN - S/R(RS/6000)||Korean Air
+Dimension Data|Dimension Data Korea Inc|KOREA||KIA40312|Yes|2nd tier vendors 1 Vendor   :  NEXT STEP  address : 15-1  Gukhoe-daero 70-gil  Yeongdeungpo-gu  Seoul  Republic of Korea  2nd tier vendors 2 Vendor   :  INNOINC address : #306  165  Gasan Digital 2 ro  Geumcheon-gu  Seoul  Korea (08504) 2nd tier vendors 1 Vendor   :  NEXT STEP  address : 15-1  Gukhoe-daero 70-gil  Yeongdeungpo-gu  Seoul  Republic of Korea  2nd tier vendors 2 Vendor   :  INNOINC address : #306  165  Gasan Digital 2 ro  Geumcheon-gu  Seoul  Korea (08504)|Operating an IPCC server in Prague. Operating a recording server in Prague.|Managed Network Services|Open|2/10/2018|1/31/2023|GTS|Sung Hak Hyun/SeungWon Shin|HANJIN - S/R(RS/6000)||Korean Air
+|TRANSMAN MANPOWER SERVICES INC|PHILIPPINES||P66N8801|Yes|N/A|IT Voice Support|Managed Network Services|Open|9/15/2017|3/14/2018|||All Customers using Services Desk and Workplace Support Services||BPI
+|ACCENT MICRO TECHNOLOGIES INC|PHILIPPINES||LN006414|Yes|N/A|Network Support Service|Managed Network Services|Open|2/26/2018|5/25/2018|||All Customers using Managed Network Services||BPI
+|ACCENT MICRO TECHNOLOGIES INC|PHILIPPINES||LN006386|Yes|N/A|WorkStation Support Fixed Services|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|2/9/2018|5/8/2018|||All Customers using Services Desk and Workplace Support Services||BPI
+|ACCENT MICRO TECHNOLOGIES INC|PHILIPPINES||LN006386|Yes|N/A|Imac / Deskside|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|2/8/2018|5/7/2018|||All Customers using Services Desk and Workplace Support Services||BPI
+|ACCENT MICRO TECHNOLOGIES INC|PHILIPPINES||LN006386|Yes|N/A|IMAC Services|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|2/13/2018|5/12/2018|||All Customers using Services Desk and Workplace Support Services||BPI
+|COLLABERA TECHNOLOGIES PRIVATE LIMITED I NC|PHILIPPINES||LN006420|Yes|N/A|System Admin|Distributed Middleware  Databases  Servers and Storage Management|Open|3/5/2018|4/4/2018|||All Customers using Distributed Services||BPI
+|ACCENT MICRO TECHNOLOGIES INC|PHILIPPINES||LN006356|Yes|N/A|Helpdesk Support|MCCS-Service Desk; Workplace Support Services|Open|1/11/2018|4/21/2018|||All Customers using Services Desk and Workplace Support Services||BPI
+|TRANSMAN MANPOWER SERVICES INC|PHILIPPINES||LN006222|Yes|N/A|Workstation support|Mobility Services Delivery; Managed Mobility and Workplace Support Services|Open|11/9/2017|10/8/2018|||All Customers using Services Desk and Workplace Support Services||BPI
+|TRANSMAN MANPOWER SERVICES INC|PHILIPPINES||P687N201|Yes|N/A|Mainframe UAT|Mainframe Middleware  Databases  Servers (and Other)  Storage Management|Open|11/27/2017|11/26/2018|||All zSeries Customers||BPI
+|ACCENT MICRO TECHNOLOGIES INC|PHILIPPINES||P65CD201|Yes|N/A|PD Tecon|Distributed Middleware  Databases  Servers and Storage Management|Open|4/26/2017|4/25/2018|||All Customers using Distributed Services||BPI
+|TRANSMAN MANPOWER SERVICES INC|PHILIPPINES||P6556N|Yes|N/A|Data Center &INSCOS- Computer|Systems Management Operations like (1) Integrated Service Management and Governance; (2) Portable Storage Media; (3) System Operations and (4) Systems Management Integration|Open|3/13/2017|3/12/2018|||All Customers using SMI/SMO (Service Mgm Infrastructure/ Services Mgm Operation) Services||BPI
+|COLLABERA TECHNOLOGIES PRIVATE LIMITED I NC|PHILIPPINES||P654ZB01|Yes|N/A|Branch - Window Admin|Distributed Middleware  Databases  Servers and Storage Management|Open|4/1/2017|3/31/2018|||All Customers using Distributed Services||BPI
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
