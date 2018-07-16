@@ -79,6 +79,7 @@
                 <td><?php echo $globalTool[$i]['check_ok']; ?></td>
                 <td><?php echo $globalTool[$i]['po_close']; ?></td>
               </tr>
+<<<<<<< HEAD
             <?php } ?>
 
           </tbody>
@@ -87,6 +88,23 @@
     </div>
   </div>
 </div><!--/row-->
+=======
+              <?php } ?>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <!--/span-->
+
+  </div><!--/row-->
+
+
+
+
+  <!-- content ends -->
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 </div><!--/#content.col-md-0-->
 </div><!--/fluid-row-->
 <hr>

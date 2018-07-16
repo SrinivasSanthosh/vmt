@@ -23,6 +23,14 @@
     <link href='css/animate.min.css' rel='stylesheet'>
     <!-- jQuery -->
     <script src="bower_components/jquery/jquery.min.js"></script>
+<<<<<<< HEAD
+=======
+    <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- The fav icon -->
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
     <link rel="shortcut icon" href="img/favicon.ico">
 </head>
 <body>

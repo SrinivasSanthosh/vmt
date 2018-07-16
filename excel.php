@@ -120,6 +120,7 @@ if(isset($_POST['excel_geo_search']) && isset($_POST['excel_custgeo']) && isset(
             $output_geo_europe = getGeoDataEurope($_POST['excel_custgeo'], $_POST['excel_geo_search'], $_POST['excel_market_search']);
             $vendor_table7 = $output_geo; 
             $vendor_table8 = $output_geo_europe; 
+<<<<<<< HEAD
       }
       elseif ($_REQUEST['excel_geo_search'] == "europe") {
             $output_geo_europe = getGeoDataEurope($_POST['excel_custgeo'], $_POST['excel_geo_search'], $_POST['excel_market_search']);
@@ -135,6 +136,23 @@ if(isset($_POST['excel_geo_search']) && isset($_POST['excel_custgeo']) && isset(
             $sel_geo = $output_geo['geo_loc'];
             $sel_market = 'All Markets';
             $sel_cust = $output_geo['vendor'];
+=======
+}
+elseif ($_REQUEST['excel_geo_search'] == "europe") {
+      $output_geo_europe = getGeoDataEurope($_POST['excel_custgeo'], $_POST['excel_geo_search'], $_POST['excel_market_search']);
+      $sel_geo = $output_geo_europe['geo_loc'];
+      $sel_market = $output_geo_europe['market'];
+      $sel_cust = $output_geo_europe['vendor'];
+      $vendor_table7 = $output_geo;
+      $vendor_table8 = $output_geo_europe; 
+      }
+else {
+      $output_geo = getGeoData($_REQUEST['excel_custgeo'], array($_REQUEST['excel_geo_search']));
+      $vendor_table7 = $output_geo;
+      $sel_geo = $output_geo['geo_loc'];
+      $sel_market = 'All Markets';
+      $sel_cust = $output_geo['vendor'];
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
       }
       $output_customer = getCustomerData($_REQUEST['excel_custgeo']);
       $vendor_table9 = $output_customer['global_offering']['data'];
@@ -142,6 +160,7 @@ if(isset($_POST['excel_geo_search']) && isset($_POST['excel_custgeo']) && isset(
       $vendor_table10 = $output_customer_datacenter['data'];
 }
 
+<<<<<<< HEAD
 $objPHPExcel->setActiveSheetIndex(0)
 ->setCellValue('B3', $vendor_criteria)
 ->setCellValue('B4', $country_criteria)
@@ -153,6 +172,19 @@ $objPHPExcel->setActiveSheetIndex(0)
 ->setCellValue('B10', $sel_market)
 ->setCellValue('B11', $sel_cust);
 $objPHPExcel->getActiveSheet()->setTitle('Introduction');
+=======
+ $objPHPExcel->setActiveSheetIndex(0)
+      ->setCellValue('B3', $vendor_criteria)
+      ->setCellValue('B4', $country_criteria)
+      ->setCellValue('B5', $gcic_criteria)
+      ->setCellValue('B6', $lcic_criteria)
+      ->setCellValue('B7', $gsa_criteria)
+      ->setCellValue('B8', $lsa_criteria)
+      ->setCellValue('B9', $sel_geo)
+      ->setCellValue('B10', $sel_market)
+      ->setCellValue('B11', $sel_cust);
+      $objPHPExcel->getActiveSheet()->setTitle('Introduction');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 $objPHPExcel->createSheet();
 //var_dump($vendor_table[0]['procurement_reference']);
 
@@ -167,6 +199,7 @@ if($vendor_table) {
       ->setCellValue('E3', 'Tool Name')
       ->setCellValue('F3', ' Vendor Service Description (GSAR)');
       for($i = 4; $i < count($vendor_table)+4; $i++) { 
+<<<<<<< HEAD
        $objPHPExcel->setActiveSheetIndex(1)->setCellValue('A'.$i, $vendor_table[$i-4]['procurement_reference']);
        $objPHPExcel->setActiveSheetIndex(1)->setCellValue('B'.$i, $vendor_table[$i-4]['entity_name']);
        $objPHPExcel->setActiveSheetIndex(1)->setCellValue('C'.$i, $vendor_table[$i-4]['country']);
@@ -175,6 +208,16 @@ if($vendor_table) {
        $objPHPExcel->setActiveSheetIndex(1)->setCellValue('F'.$i, $vendor_table[$i-4]['vendor_description']);
  } 
  $objPHPExcel->getActiveSheet()->setTitle('IBM Global Tools');
+=======
+           $objPHPExcel->setActiveSheetIndex(1)->setCellValue('A'.$i, $vendor_table[$i-4]['procurement_reference']);
+            $objPHPExcel->setActiveSheetIndex(1)->setCellValue('B'.$i, $vendor_table[$i-4]['entity_name']);
+            $objPHPExcel->setActiveSheetIndex(1)->setCellValue('C'.$i, $vendor_table[$i-4]['country']);
+            $objPHPExcel->setActiveSheetIndex(1)->setCellValue('D'.$i, $vendor_table[$i-4]['sub_contract_vendors']);
+            $objPHPExcel->setActiveSheetIndex(1)->setCellValue('E'.$i, $vendor_table[$i-4]['tool_name']);
+            $objPHPExcel->setActiveSheetIndex(1)->setCellValue('F'.$i, $vendor_table[$i-4]['vendor_description']);
+      } 
+      $objPHPExcel->getActiveSheet()->setTitle('IBM Global Tools');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 }
 else
 {
@@ -187,7 +230,11 @@ else
       ->setCellValue('E3', 'ToolTool Name')
       ->setCellValue('F3', 'Vendor Category')
       ->setCellValue('A4', 'Tool Criteria not selected from Dropdown');
+<<<<<<< HEAD
       $objPHPExcel->getActiveSheet()->setTitle('IBM Global Tools');
+=======
+        $objPHPExcel->getActiveSheet()->setTitle('IBM Global Tools');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 }
 $objPHPExcel->createSheet();
 
@@ -215,6 +262,7 @@ if($vendor_table2) {
 }
 else
 {
+<<<<<<< HEAD
      $objPHPExcel->setActiveSheetIndex(2)
      ->setCellValue('A1', 'GTS Vendor Inquiry')
      ->setCellValue('A3', 'Procurement Vendor')
@@ -226,6 +274,19 @@ else
      ->setCellValue('G3', 'IOT')
      ->setCellValue('A4', 'Data Center Not Selected from Dropdown');
      $objPHPExcel->getActiveSheet()->setTitle('Country Data Center');
+=======
+       $objPHPExcel->setActiveSheetIndex(2)
+      ->setCellValue('A1', 'GTS Vendor Inquiry')
+      ->setCellValue('A3', 'Procurement Vendor')
+      ->setCellValue('B3', 'Supplier Name')
+      ->setCellValue('C3', 'Full Supplier Address')
+      ->setCellValue('D3', 'Service Area')
+      ->setCellValue('E3', 'Identify Customer')
+      ->setCellValue('F3', 'IMT')
+      ->setCellValue('G3', 'IOT')
+      ->setCellValue('A4', 'Data Center Not Selected from Dropdown');
+      $objPHPExcel->getActiveSheet()->setTitle('Country Data Center');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 }
 $objPHPExcel->createSheet();
 
@@ -313,11 +374,16 @@ if($vendor_table4) {
             $objPHPExcel->setActiveSheetIndex(4)->setCellValue('J'.$i, $vendor_table4[$i-4]['service_contact']);
             $objPHPExcel->setActiveSheetIndex(4)->setCellValue('K'.$i, $vendor_table4[$i-4]['assesment_owner']);
             $objPHPExcel->setActiveSheetIndex(4)->setCellValue('L'.$i, $vendor_table4[$i-4]['note']);
+<<<<<<< HEAD
       }
+=======
+       }
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
       $objPHPExcel->getActiveSheet()->setTitle('Local CIC Sheet');
 }
 else
 {
+<<<<<<< HEAD
      $objPHPExcel->setActiveSheetIndex(4)
      ->setCellValue('A1', 'GTS Vendor Inquiry')
      ->setCellValue('A3', 'ID')
@@ -334,6 +400,24 @@ else
      ->setCellValue('L3', 'Note')
      ->setCellValue('A4', 'Local CIC Criteria Not Selected from Dropdown');
      $objPHPExcel->getActiveSheet()->setTitle('Local CIC Sheet');
+=======
+       $objPHPExcel->setActiveSheetIndex(4)
+      ->setCellValue('A1', 'GTS Vendor Inquiry')
+      ->setCellValue('A3', 'ID')
+      ->setCellValue('B3', 'IBM CIC Name')
+      ->setCellValue('C3', 'IBM CIC full address ')
+      ->setCellValue('D3', 'Country')
+      ->setCellValue('E3', 'Is Your CIC delivering this service YES / NO')
+      ->setCellValue('F3', 'IBM Entity Name or 3rd Party Vendor name')  
+      ->setCellValue('G3', 'Is there further sub-contracting to second or third tier vendors? If so, please provide the full names and full address of 2nd or 3rd tier vendors')
+      ->setCellValue('H3', 'Service Area')
+      ->setCellValue('I3', 'GSO')
+      ->setCellValue('J3', 'Service Area Contact Owner')
+      ->setCellValue('K3', 'Assessment Owner')
+      ->setCellValue('L3', 'Note')
+      ->setCellValue('A4', 'Local CIC Criteria Not Selected from Dropdown');
+       $objPHPExcel->getActiveSheet()->setTitle('Local CIC Sheet');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 }
 $objPHPExcel->createSheet();
 
@@ -372,6 +456,7 @@ if($vendor_table5) {
 }
 else
 {
+<<<<<<< HEAD
      $objPHPExcel->setActiveSheetIndex(5)
      ->setCellValue('A1', 'GTS Vendor Inquiry')
      ->setCellValue('A3', 'ID')
@@ -388,6 +473,24 @@ else
      ->setCellValue('L3', 'Note')
      ->setCellValue('A4', 'Global Service Area Not Selected from Dropdown');
      $objPHPExcel->getActiveSheet()->setTitle('Global Service Area Sheet');
+=======
+       $objPHPExcel->setActiveSheetIndex(5)
+      ->setCellValue('A1', 'GTS Vendor Inquiry')
+      ->setCellValue('A3', 'ID')
+      ->setCellValue('B3', 'IBM CIC Name')
+      ->setCellValue('C3', 'IBM CIC full address ')
+      ->setCellValue('D3', 'Country')
+      ->setCellValue('E3', 'Is Your CIC delivering this service YES / NO')
+      ->setCellValue('F3', 'IBM Entity Name or 3rd Party Vendor name')  
+      ->setCellValue('G3', 'Is there further sub-contracting to second or third tier vendors? If so, please provide the full names and full address of 2nd or 3rd tier vendors')
+      ->setCellValue('H3', 'Service Area')
+      ->setCellValue('I3', 'GSO')
+      ->setCellValue('J3', 'Service Area Contact Owner')
+      ->setCellValue('K3', 'Assessment Owner')
+      ->setCellValue('L3', 'Note')
+      ->setCellValue('A4', 'Global Service Area Not Selected from Dropdown');
+      $objPHPExcel->getActiveSheet()->setTitle('Global Service Area Sheet');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 }
 $objPHPExcel->createSheet();
 
@@ -426,6 +529,7 @@ if($vendor_table6) {
 }
 else
 {
+<<<<<<< HEAD
      $objPHPExcel->setActiveSheetIndex(6)
      ->setCellValue('A1', 'GTS Vendor Inquiry')
      ->setCellValue('A3', 'ID')
@@ -442,6 +546,24 @@ else
      ->setCellValue('L3', 'Note')
      ->setCellValue('A4', 'Local Service Area Not Selected from Dropdown');
      $objPHPExcel->getActiveSheet()->setTitle('Local Service Area Sheet');
+=======
+       $objPHPExcel->setActiveSheetIndex(6)
+      ->setCellValue('A1', 'GTS Vendor Inquiry')
+      ->setCellValue('A3', 'ID')
+      ->setCellValue('B3', 'IBM CIC Name')
+      ->setCellValue('C3', 'IBM CIC full address ')
+      ->setCellValue('D3', 'Country')
+      ->setCellValue('E3', 'Is Your CIC delivering this service YES / NO')
+      ->setCellValue('F3', 'IBM Entity Name or 3rd Party Vendor name')  
+      ->setCellValue('G3', 'Is there further sub-contracting to second or third tier vendors? If so, please provide the full names and full address of 2nd or 3rd tier vendors')
+      ->setCellValue('H3', 'Service Area')
+      ->setCellValue('I3', 'GSO')
+      ->setCellValue('J3', 'Service Area Contact Owner')
+      ->setCellValue('K3', 'Assessment Owner')
+      ->setCellValue('L3', 'Note')
+      ->setCellValue('A4', 'Local Service Area Not Selected from Dropdown');
+  $objPHPExcel->getActiveSheet()->setTitle('Local Service Area Sheet');
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 }
 $objPHPExcel->createSheet();
 
@@ -495,6 +617,7 @@ if($vendor_table7) {
             $objPHPExcel->setActiveSheetIndex(7)->setCellValue('T'.$i, $vendor_table7[$i-4]['note']);
             $objPHPExcel->setActiveSheetIndex(7)->setCellValue('U'.$i, $vendor_table7[$i-4]['po_relevant']);
             $objPHPExcel->setActiveSheetIndex(7)->setCellValue('V'.$i, $vendor_table7[$i-4]['market']);
+<<<<<<< HEAD
       }
       $objPHPExcel->getActiveSheet()->setTitle('GEO Sheet');
 }
@@ -563,6 +686,76 @@ else
       $objPHPExcel->setActiveSheetIndex(8)->setCellValue('A4', 'No data Found!');
       $objPHPExcel->getActiveSheet()->setTitle('Europe GEO Sheet'); 
 }
+=======
+            }
+            $objPHPExcel->getActiveSheet()->setTitle('GEO Sheet');
+      }
+       else
+      {
+            $objPHPExcel->setActiveSheetIndex(7)->setCellValue('A4', 'No data Found!');
+            $objPHPExcel->getActiveSheet()->setTitle('GEO Sheet'); 
+      }
+      $objPHPExcel->createSheet();
+
+      if($vendor_table8) {
+      // Add some data
+            $objPHPExcel->setActiveSheetIndex(8)
+            ->setCellValue('A1', 'GTS Vendor Inquiry')
+            ->setCellValue('A3', 'Procurement Vendor ID')
+            ->setCellValue('B3', 'Supplier Name')
+            ->setCellValue('C3', 'VAT Number')
+            ->setCellValue('D3', 'Subcontractors')
+            ->setCellValue('E3', 'Country')
+            ->setCellValue('F3', 'Is there further sub-contracting to second or third tier vendors? If so, please provide the full names and full address of 2nd or 3rd tier vendors')
+            ->setCellValue('G3', 'PO Number (if  first tier vendor) or ICA-DOU (if IBM entity or IBM Subsidiary)')
+            ->setCellValue('H3', 'Family code')
+            ->setCellValue('I3', 'PO/BSAP/ICA/DOU full description')
+            ->setCellValue('J3', 'Briefly describe the type of services/data processing activity performed by the Vendor')
+            ->setCellValue('K3', 'Service Category was identified (Y/N)')
+            ->setCellValue('L3', 'In what category is the Vendor Service Description ? (using the categories in GSAR (Global Solution Architecture Repository))')
+            ->setCellValue('M3', 'PO Status')
+            ->setCellValue('N3', 'Start Date')
+            ->setCellValue('O3', 'End Date')
+            ->setCellValue('P3', 'PO/ICA Amount(not mandatory - free text)')
+            ->setCellValue('Q3', 'Business Unit that provide the services through this vendor(free text ) ')
+            ->setCellValue('R3', 'Requester/Approver Name')
+            ->setCellValue('S3', 'Please identify the Customer(s) or Account(s) under the PO')
+            ->setCellValue('T3', 'NOTE')
+            ->setCellValue('U3', 'Is the PO GDPR Relevant? ')
+            ->setCellValue('V3', 'Market');
+
+            for($i = 4; $i < count($vendor_table8)+4; $i++) { 
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('A'.$i, $vendor_table8[$i-4]['procurement_vendor_id']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('B'.$i, $vendor_table8[$i-4]['supplier_name']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('C'.$i, $vendor_table8[$i-4]['vat_number']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('D'.$i, $vendor_table8[$i-4]['Subcontractos']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('E'.$i, $vendor_table8[$i-4]['country']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('F'.$i, $vendor_table8[$i-4]['sub_contract_vendors']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('G'.$i, $vendor_table8[$i-4]['po_number']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('H'.$i, $vendor_table8[$i-4]['family_code']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('I'.$i, $vendor_table8[$i-4]['po_bsap_ica']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('J'.$i, $vendor_table8[$i-4]['describe_service']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('K'.$i, $vendor_table8[$i-4]['service_category']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('L'.$i, $vendor_table8[$i-4]['vendor_service']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('M'.$i, $vendor_table8[$i-4]['po_status']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('N'.$i, $vendor_table8[$i-4]['start_date']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('O'.$i, $vendor_table8[$i-4]['end_date']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('P'.$i, $vendor_table8[$i-4]['po_ica_amount']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('Q'.$i, $vendor_table8[$i-4]['business_unit']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('R'.$i, $vendor_table8[$i-4]['requester_approver']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('S'.$i, $vendor_table8[$i-4]['customer_under_po']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('T'.$i, $vendor_table8[$i-4]['note']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('U'.$i, $vendor_table8[$i-4]['po_relevant']);
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('V'.$i, $vendor_table8[$i-4]['market']);
+                  }
+                  $objPHPExcel->getActiveSheet()->setTitle('Europe GEO Sheet');
+            }
+            else
+            {
+                  $objPHPExcel->setActiveSheetIndex(8)->setCellValue('A4', 'No data Found!');
+                  $objPHPExcel->getActiveSheet()->setTitle('Europe GEO Sheet'); 
+            }
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 
 // $objPHPExcel->createSheet();
 
@@ -570,6 +763,7 @@ $objPHPExcel->createSheet();
 
 if($vendor_table9) {
       // Add some data
+<<<<<<< HEAD
       $objPHPExcel->setActiveSheetIndex(9)
       ->setCellValue('A1', 'GTS Vendor Inquiry')
       ->setCellValue('A3', 'Procurement Reference')
@@ -606,12 +800,51 @@ else
       $objPHPExcel->setActiveSheetIndex(9)->setCellValue('A4', 'No data Found!');
       $objPHPExcel->getActiveSheet()->setTitle('IBM Global Offering'); 
 }
+=======
+            $objPHPExcel->setActiveSheetIndex(9)
+            ->setCellValue('A1', 'GTS Vendor Inquiry')
+            ->setCellValue('A3', 'Procurement Reference')
+            ->setCellValue('B3', 'Entity Name')
+            ->setCellValue('C3', 'Country')
+            ->setCellValue('D3', 'Is there further sub-contracting to second or third tier Vendors. If so, please provide the full names and full address of 2nd or 3rd tier vendors')
+            ->setCellValue('E3', 'Offering ID (level 30)')
+            ->setCellValue('F3', 'Offering ID (level 40)')
+            ->setCellValue('G3', 'Vendors Service Description (GSAR)')
+            ->setCellValue('H3', 'On boarding')
+            ->setCellValue('I3', 'Off-Boarding')
+            ->setCellValue('J3', 'Offering Owner')
+            ->setCellValue('K3', 'Assessment Owner')
+            ->setCellValue('L3', 'NOTE');
+
+            for($i = 4; $i < count($vendor_table9)+4; $i++) { 
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('A'.$i, $vendor_table9[$i-4]['procurement_reference']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('B'.$i, $vendor_table9[$i-4]['entity_name']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('C'.$i, $vendor_table9[$i-4]['country']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('D'.$i, $vendor_table9[$i-4]['sub_contract_vendors']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('E'.$i, $vendor_table9[$i-4]['offering_id_30']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('F'.$i, $vendor_table9[$i-4]['offering_id_40']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('G'.$i, $vendor_table9[$i-4]['vendor_description']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('H'.$i, $vendor_table9[$i-4]['on_boarding']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('I'.$i, $vendor_table9[$i-4]['off_boarding']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('J'.$i, $vendor_table9[$i-4]['offering_owner']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('K'.$i, $vendor_table9[$i-4]['assessment_owner']);
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('L'.$i, $vendor_table9[$i-4]['note']);
+                  }
+                  $objPHPExcel->getActiveSheet()->setTitle('IBM Global Offering');
+            }
+            else
+            {
+                  $objPHPExcel->setActiveSheetIndex(9)->setCellValue('A4', 'No data Found!');
+                  $objPHPExcel->getActiveSheet()->setTitle('IBM Global Offering'); 
+            }
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 
 $objPHPExcel->createSheet();
 
 
 if($vendor_table10) {
       // Add some data
+<<<<<<< HEAD
       $objPHPExcel->setActiveSheetIndex(10)
       ->setCellValue('A1', 'GTS Vendor Inquiry')
       ->setCellValue('A3', 'Procurement Vendor')
@@ -640,6 +873,36 @@ else
      $objPHPExcel->setActiveSheetIndex(10)->setCellValue('A4', 'No data Found!');
      $objPHPExcel->getActiveSheet()->setTitle('Customer Data Center');
 }
+=======
+            $objPHPExcel->setActiveSheetIndex(10)
+            ->setCellValue('A1', 'GTS Vendor Inquiry')
+            ->setCellValue('A3', 'Procurement Vendor')
+            ->setCellValue('B3', 'Supplier Name')
+            ->setCellValue('C3', 'Country / Address')
+            ->setCellValue('D3', 'Vendor Service Description (GSAR)')
+            ->setCellValue('E3', 'Sub Contract Vendor')
+            ->setCellValue('F3', 'Customer')
+            ->setCellValue('G3', 'IMT')
+            ->setCellValue('H3', 'IOT');
+
+            for($i = 4; $i < count($vendor_table10)+4; $i++) { 
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('A'.$i, $vendor_table10[$i-4]['procurement_vendor']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('B'.$i, $vendor_table10[$i-4]['supplier_name']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('C'.$i, $vendor_table10[$i-4]['address_country']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('D'.$i, $vendor_table10[$i-4]['service_area']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('E'.$i, $vendor_table10[$i-4]['subcontract_vendor']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('F'.$i, $vendor_table10[$i-4]['identify_customer']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('G'.$i, $vendor_table10[$i-4]['imt']);
+                  $objPHPExcel->setActiveSheetIndex(10)->setCellValue('H'.$i, $vendor_table10[$i-4]['iot']);
+                  }
+                  $objPHPExcel->getActiveSheet()->setTitle('Customer Data Center');
+            }
+            else
+            {
+                   $objPHPExcel->setActiveSheetIndex(10)->setCellValue('A4', 'No data Found!');
+                   $objPHPExcel->getActiveSheet()->setTitle('Customer Data Center');
+            }
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
       //$objPHPExcel->createSheet();
 
 // Add some data

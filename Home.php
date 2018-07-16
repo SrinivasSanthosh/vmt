@@ -6,6 +6,7 @@ $email=$_REQUEST['username'];
 $pwd=$_REQUEST['password'];
 
 $val="";
+<<<<<<< HEAD
 $val=system('ldap.pl '.$email." ".$pwd);
 if (strpos($val, 'NotMatched') !== false) 
 {
@@ -14,6 +15,13 @@ else if(strpos($val, 'NotPresent') !== false)
 {
 	
 }
+=======
+$val=system('ldap.exe '.$email." ".$pwd);
+if (strpos($val, 'NotMatched') !== false) {
+}
+else if(strpos($val, 'NotPresent') !== false)
+{}
+>>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 else
 {
 	$_SESSION["email"] = $email;

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>GTS Vendor Inquiry Tool</title>
+	<title>GTS Vendor Management</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--===============================================================================================-->	
@@ -23,13 +23,6 @@
 	<link rel="stylesheet" type="text/css" href="css/tables/main.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-<<<<<<< HEAD
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap-multiselect.css">
-=======
-	<link rel="stylesheet" type="text/css" href="css/bootstrap-multiselect.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
->>>>>>> 169b6de7b36cd76dd25ded45084f7332b8ddb1aa
 	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/select/1.2.5/css/select.dataTables.min.css">
