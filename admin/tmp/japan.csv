@@ -1,0 +1,175 @@
+Procurement Vendor ID (Mandatory for 1° Tier Vendor)|Supplier Name|Country|VAT Number|PO Number (if  first tier vendor) or ICA-DOU (if IBM entity or IBM Subsidiary)|Is the PO GDPR Relevant?|Is there further sub-contracting to second or third tier vendors? If so  please provide the full names and full address of 2nd or 3rd tier vendors|Briefly describe the type of services/data processing activity performed by the Vendor|In what category is the Vendor s Service Description ? (using the categories in GSAR (Global Solution Architecture Repository))|PO Status|Start Date|End Date|Business Unit that provide the services through this vendor (free text )|Requester/Approver Name|Please identify the Customer(s) or Account(s) under the PO|NOTE
+090126|IIJ Global Solutions Inc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090160|TEXENG SOLUTIONS CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090283|VSN Inc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090393|Micro Focus Enterprise Ltd|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090503|TDmobile|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090526|KDDI CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090659|TDI System Service Co. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090764|CHIBAGIN COMPUTER SERVICE CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+090941|DTS WEST CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+091346|MIRAIT Information Systems Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+091356|Marubeni OKI Network SolutionsInc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+091534|OKINAWA Hi-Think Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+091644|ZEAL CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+091651|GEODIS JAPAN Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092002|TEAMSTUDIO JAPAN K.K.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092012|Net One Partners Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092424|Sumitomo Mitsui Trust Panasonic Finance Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092495|Veritas Technologies (Japan) LLC|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092497|Dimension Data Japan Inc|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092515|GXS Co. Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092558|Macnica Networks Corp.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092662|Infinity Communication K.K.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092968|NTT Com Solutions Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+092969|NTT COMMUNICATIONS CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+093205|Lenovo Enterprise Solutions Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+093708|Neotex.Co.Ltd|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+093823|COMSIS CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+093902|Red Hat Japan Inc|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+094319|SoftBank Commerce & Service Corp.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+094326|Lenovo Japan Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+095108|Teradata Japan  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+096484|Jones Lang LaSalle K.K|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+096500|AT TOKYO CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+096656|MAZDA AUTO LEASING            COMPANY LIMITED|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+096979|INTERNETWARE CO. LTD|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+097102|Universal Computer K.K|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+097206|ZEXIS CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+097791|VAILE INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+098298|Ucas Service|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+098893|Nomura Real Estate Partners Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+098964|Symantec Japan Inc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+099616|Shintodensan Co. |JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+100444|ADECCO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+100470|CTC|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+100720|IOS Co.Ltd|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+103010|AIMOTO KAGAKU CO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+117500|K.K.ASHISUTO|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+144037|ASAHI INTELLIGENCE SERVICE CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+144474|ASKUL CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+144688|AGREX INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+146419|Sumitomo Life Information Systems Co. Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+147386|EMC Japan|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+148310|NTT AT|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+149950|INTEC INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150000|INFORMATION DEVELOPMENT       CO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150367|OPEN SYSTEMS TECHNOLOGY|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150443|ADVANCED INTEGRATION TECHNOLOGY INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150494|EPSON SALES|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150561|NTTPC COMMUNICATIONS INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150629|Little eArth Corporation Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150809|NK-EXA CORPORATION.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+150831|S&I Co. Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+151010|JBCC Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+151055|ADVANCED TECHNOLOGY & PLANNING CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+165500|NEOAXIS Co. Ltd|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+186040|OKAMURA CORPORATION KYOBASHI|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+198000|ORIX RENTEC CORPORATION.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+199598|OKI ELECTRIC INDUSTRY|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+199648|N.C.S CO.  LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+199649|NTT SYSTEM TECHNOLOGIES INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+199658|HUMAN LINE CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+199909|NTTDATA EMAS Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+199975|AT&T JAPAN KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+200128|CITY ASCOM CO.  LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+201828|KYOSO COMPUTER CO.  LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+211700|Kanematsu Electronics Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+228000|Canon Marketing Japan|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+241510|KINDEN CORPORATION OSAKA|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+249550|KYOCERA COMMUNICATION SYSTEMS CO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+249808|KEYSTONE INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+249898|INTERNET INITIATIVE JAPAN INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+250085|COMPUTER SCIENCE CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+250464|GLORY LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+250984|KOBELCO SYSTEMS CO.  LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+251266|KCC  CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+251289|CRESCO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+292010|Kobayashi Create Co.  Ltd|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+299523|KUBOTA SYSTEMS INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+299541|COMTEC INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+299549|GAIN CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+299843|K-OPTICOM CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+300954|CYBERNET SYSTEMS CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+302245|SHARP MARKETING JAPAN CORPOR  ATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+325500|SANYO DENKI|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+330400|CLC CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+340000|SHODEN CORP.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+343100|T.D.I. CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+349212|JAL INFORMATION TECHNOLOGY    CO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+349256|TIS Solution Link Inc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+349874|SATO|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+350066|SEIKO Solutions Inc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+350231|Canon IT Solutions K.K|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+350341|SOLUTION LABO TOKYO CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+350598|SECOM TRUST SYSTEMS CO. LTD|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+351287|SOLUTION LABO YOKOHAMA Co. Ltd|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+366400|SCSK Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+420000|TAKENAKA KOMUTEN|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+449807|DAIWABO INFORMATION SYSTEM|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+449878|Panasonic System Solutions Japan Co.  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+449935|DAISHI KOMPYUTA SABISU KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+450085|TOKYO COMPUTER SERVICE CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+450121|PERSOL TEMPSTAFF CO.  LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+450662|TRANS COSMOS INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+451186|Tokyo System Research Corp.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+499484|DATA SYSTEM SOLUTION CORP.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+499565|TOPPAN FORMS OPERATION CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+499576|TIS CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+499891|J-SCube INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+499971|TOKYO ELECTRON DEVICE LIMITED.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+500268|NIPPON INFORMATION AND COMMUNICATION CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+548772|JAPAN BRAIN CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+548796|NSD co. Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+548953|NTT COMMUNICATIONS CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549048|SoftBank Corp.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549226|IX KNOWLEDGE INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549651|HINO KINZOKU SANGYO|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549741|NABIO KOMPYUTA KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549779|Cisco Systems G.K.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549942|COMTURE CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+549944|Nippon Information Industry Corp.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+550028|Novell Japan  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+585030|TOPPAN FORMS CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+599920|NET WORLD INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+599981|UNIADEX  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+600016|CA Japan Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+601073|HITACHI SOLUTIONS|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+630000|NISSHO ELECTRONICS CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+642100|JIEC Co Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649048|HOWCOM CO.  LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649323|Hitachi Systems  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649452|BIJINESU SAABISU KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649496|PSC INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649630|UNIRITA Inc.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649665|FUJITSU FSAS INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649669|Hitachi Solutions West Japan  Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649787|Information Technology One Co. Ltd.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+649890|HITACHI LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+651251|FUJI SOFT INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+653000|CAC CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+655000|NIHON SENDEN BIJUTSU KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+655300|Systena Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+667000|NIHON DENSAN SETSUBI CO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+699492|Bowe-systec Japan|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+699917|FOCUS SYSTEMS CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+699977|BROAD CORPORATION|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+749875|PANASONIC SOLUTION TECHNOLOGY CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+749932|ManpowerGroup Co.  Ltd. |JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+770000|FUJI XEROX|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+785950|BELLSYSTEM 24 INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+800109|STNet INCORPORARTED|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+800763|UNIVERSAL TECHNICS CO LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+806000|OFIX KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+828200|MITSUI ZOSEN SYSTEMS RESEARCH INC.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+842600|MEIJI YASUDA SYSTEM TECHNOLOGYCO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+849925|HEWLETT-PACKARD JAPAN LTD|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+853000|YASUDA WAREHOUSE|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+900492|RYOYU SYSTEM BUSINESS|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+949378|Ricoh Japan Corporation|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+949628|ROKOKO KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+949674|RITEMU KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+949793|WANBISHI ARCHIVES CO. LTD.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+949894|RIUKOMU  KK|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+K00222|Red Hat Japan Inc|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
+K00HZQ|SHI International  Corp.|JAPAN|||Yes|N/A||||||IS||All Customers|multiple customers
